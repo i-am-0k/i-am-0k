@@ -15,7 +15,7 @@ img {
    font-family: 'ws600';
    src: url('./fonts/WorkSans-Semibold.woff2') format('woff2'),
         url('./fonts/WorkSans-Semibold.woff') format('woff'),
-        url('./fonts/WorkSans-Semibold.ttf')format('truetype');
+        url('./fonts/WorkSans-Semibold.ttf') format('truetype');
    font-style: normal;
    font-weight: 600;
    font-display: swap;
